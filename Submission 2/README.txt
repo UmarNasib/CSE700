@@ -5,17 +5,18 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/.....
 
 Paper title:
-NLP using ANN
+A Web Scale Entity Extraction System
 
 Link to the paper:
-https://ieeexplore......
+https://aclanthology.org/2021.findings-emnlp.7/
 
 Group Number:
 04
 
 Group Members:
-19166009 Abdullah Umar Nasib
-23456789 Name B
-34567890 Name C
-45678901 Name D
-56789012 Name E
+19166009	Abdullah Umar Nasib
+22166003	Ashik Adnan
+22166009	Nazifa Khanom
+22166016	Fahim Hasnat
+22166018	Md Mazidul Hasan
+22166037	S M Mahsanul Islam Nirjhor

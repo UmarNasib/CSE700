@@ -1,3 +1,3 @@
 Course ID: CSE712
-Student Name: Abdullah Umar Nasib
+Student Name: ABDULLAH UMAR NASIB
 Student ID: 19166009
