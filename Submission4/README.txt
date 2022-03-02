@@ -5,7 +5,7 @@ Conference submitted paper / paper submission / login Link:
 https://easy....
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+Understanding Sarcasm from Reddit texts using Supervised Algorithms
 
 Paper presentation (anyone can view without login):
 http://slides.google.com/
