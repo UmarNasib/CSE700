@@ -5,7 +5,7 @@ Conference submitted paper / paper submission / login Link:
 https://easy....
 
 Paper title:
-Understanding Sarcasm from Reddit texts using Supervised Algorithms
+Understanding Sarcasm from Reddit Texts using Supervised Algorithms
 
 Paper presentation (anyone can view without login):
 http://slides.google.com/
