@@ -10,7 +10,11 @@ Understanding Sarcasm from Reddit Texts using Supervised Algorithms
 Paper presentation (anyone can view without login):
 http://slides.google.com/
 
+<<<<<<< HEAD
 Paper submission date: 29 March 2022
+=======
+Paper submission date (to workshop/conference): 29 March 2022
+>>>>>>> fe7bf74b195c5b53b5f52ded60f0360ed0b2fb0f
 
 Paper submission ID: 
 
