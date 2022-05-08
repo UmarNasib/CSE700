@@ -20,6 +20,8 @@ Conference Name:
 Conference URL:
 https://r10htc2022.org/index.php
 
+Paper Status: Accepted
+
 Group Number:
 04
 
